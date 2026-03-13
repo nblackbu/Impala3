@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("f2");
         System.out.println("fggg");
-        System.out.println("heello from no revert commit");
     }
 }
